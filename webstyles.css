@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255 255 128 / 0.5);
+    font-family: "Gill Sans", sans-serif;
+}
+h1 {
+    border: solid;
+}
+p {
+    color: rgb(214 122 127);
+    font-size: 12px;
+}
+ol {
+   border: solid; 
+}
